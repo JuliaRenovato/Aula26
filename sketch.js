@@ -39,6 +39,8 @@ function setup(){
 }
 
 function draw(){
+
+    //Teste
     background(backgroundImg);
     Engine.update(engine);
     console.log(box2.body.position.x);
